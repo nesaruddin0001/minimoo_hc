@@ -1,0 +1,11 @@
+font-----
+playfair display italic, regular, black, bold
+ubuntu light
+inconsulata regular
+
+color-----
+#626262
+#b4ad9e
+#333333
+#000000
+
