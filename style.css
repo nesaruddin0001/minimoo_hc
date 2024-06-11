@@ -30,7 +30,7 @@ header{
     margin-top: 40px;
 }
 .container{
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
     overflow: hidden;
     /* border: 1px solid black; */
@@ -40,7 +40,7 @@ header{
     float: left;
     /* border: 1px solid red; */
 }
-.logo img{
+.logo a img{
     width: 100%;
 }
 .menu{
@@ -77,10 +77,6 @@ header{
 .banner{
     padding: 70px 0;
 }
-.container{
-    width: 80%;
-    margin: 0 auto;
-}
 .b_img{}
 .b_img img{
     width: 100%;
@@ -91,7 +87,7 @@ header{
 /* getaway start  */
 .getaway{}
 .container2{
-    width: 70%;
+    width: 80%;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -154,7 +150,8 @@ header{
     margin: 0 auto;
 }
 .n_form input{
-    width: 402px;
+    padding-right: 87px;
+    width: 315px;
     height: 50px;
     border: none;
     border-bottom: 1px solid black;
